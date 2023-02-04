@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "clash-of-clans",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

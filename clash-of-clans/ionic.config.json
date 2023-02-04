@@ -1,0 +1,7 @@
+{
+  "name": "clash-of-clans",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
